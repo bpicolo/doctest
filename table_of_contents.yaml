@@ -1,0 +1,13 @@
+title: "Test Documentation"
+href: "index.md"
+contents:
+  - title: "First Topic"
+    contents:
+      - title: "First Topic Index"
+        href: "topic/index.md"
+      - title: "First Topic Secondary"
+        href: "topic/second.md"
+  - title: "Topic 2"
+    contents:
+      - title: "Topic 2 index"
+        href: "topic2/first.md"
